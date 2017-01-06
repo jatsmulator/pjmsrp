@@ -4,7 +4,7 @@ PJMSRP is a free and open source stack written in C language implementing the Me
 
 You aslo can find MSRP stack in other open source projects, such as Doubango, libmsrp, rcsjta, but the stack has its own basic framework, not easy to use.
 PJSIP and PJLIB is easy to use, cross-platform, good document and communities in the web, I really like it.
-In case of this situation, I decide to port the MSRP stack onto the PJLIB.
+In case of this situation, I decide to port the MSRP stack with PJLIB.
 
 #Coming soon! 
 
